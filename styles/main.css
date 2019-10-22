@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: 'lobster', cursive;
+    font-size: 1.5cm;
+}
+h3 {
+    margin: 1.5cm;
+}
+header {
+    width:100%;
+    height:200px;
+    float:left;
+    background-color:rgb(114, 102, 153);
+    color: black;
+}
+.centre {
+    text-align: centre;
+    font-family: "Alfa Stab One", cursive;
+
+}
+.leftcolumn {
+    width:50%;
+    height: 700px;
+    float:left;
+}
